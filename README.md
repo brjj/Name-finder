@@ -9,3 +9,19 @@ and it would return:
 antin
 anton
 antun
+
+
+Another example input:
+ant*n ander**n
+
+returns:
+antin
+anton
+antun
+anderman
+andersen
+andersin
+anderson
+anderton
+andertun
+anderzon
